@@ -3,6 +3,10 @@
 # 84EC(S) Pro-Ble Keyboard (Non-RGB)
 English Translated Manual
 
+_by smallbee_
+_last edit 2018.11.17_
+
+
 <br>
 
 
@@ -48,7 +52,7 @@ Do it again to switch back to office mode.
 <br>
 
 
-## 6.2 Battery light (` key)
+## 6.2 Battery light (`(~) key)
 *on = charging \
 *off = charged \
 *blinking = battery low
@@ -88,12 +92,17 @@ Instead, I suggest you to toggle following macOS option as you want.  \
 <br>
 
 
-### _**Additional Notes**_
+## 10.0 KBD84 software
 When using the KBD84 software to program the keyboard, be sure to select ReadAll first.  This reads the current keyboard mappings from the keyboard.  If you don’t select ReadAll first, you will be essentially starting with blank mappings and you will need to map every single key.
 
+<br>
+
+
+### _**Additional Notes**_
 If your keyboard is plum87 or plum108, go visit this link.  \
 http://randombits.me/?p=155
 
 
-### **Acknowledgements** \
-Many thanks to kschang on reddit for the translation. 
+### **Acknowledgements**
+Many thanks to kschang on reddit for the translation.  \
+https://www.reddit.com/r/MechanicalKeyboards/comments/76pudv/can_anyone_translate_the_manual_for_the_plum_84/
