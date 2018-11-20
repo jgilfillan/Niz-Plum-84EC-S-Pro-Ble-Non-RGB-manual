@@ -5,7 +5,9 @@ English Translated Manual
 _by smallbee_
 _last edit  2018.11.20_
 
-_pull request is always welcome :)_
+<br>
+
+pull request is always welcome :)
 
 <br>
 
