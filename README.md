@@ -129,12 +129,23 @@ Source : Software > CalibrationiLite > CalibrationLite.exe
 <br>
 
 
+## 12. Software errors out with the message "Keyboard is not connected!" when starting up
+Do a factory reset of the board and try again. I have found that the software won't work if you have used the ``Fn + Win⇌Alt : swap Windows key and Alt`` function, and possibly the other ``Fn + ...`` functionalities as well.
+
+<br>
+
 
 ### _**Additional Notes**_
 If your keyboard is plum87 or plum108, go visit this link.  \
 http://randombits.me/?p=155
 
+<br>
+
 
 ### **Acknowledgements**
 Many thanks to kschang on reddit for the translation.  \
 https://www.reddit.com/r/MechanicalKeyboards/comments/76pudv/can_anyone_translate_the_manual_for_the_plum_84
+
+<br>
+
+
