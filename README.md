@@ -2,7 +2,6 @@
 # 84EC(S) Pro-Ble Keyboard (Non-RGB)
 English Translated Manual
 
-_by smallbee_
 _last edit  2018.11.20_
 
 <br>
@@ -86,8 +85,9 @@ hold down ALL FOUR CORNER KEYS (Esc, Ctrl(Left), →, Delete) for 5 seconds
  *  If you are using MacOS, Fn + F1 – F12 would not work as you expected.
 ksmigrod explanied the reason for the problem in reddit. \
   “On Linux in Bluetooth mode this keyboard is supported by Apple keyboard driver. This driver tries to mimic Apple keyboard behaviour and does conversion from function key (F1-F12) to media key codes on the fly. NiZ keyboard does not send any codes for its function key, so Linux's keyboard driver cannot map Fn+F1 to F1.” \
- https://www.reddit.com/r/MechanicalKeyboards/comments/6yieo6/review_plum_84_35g_bluetooth_nonrgb/   \
-Though he explained the solution in Linux, it seems it doesn't apply to MacOS. \
+ https://www.reddit.com/r/MechanicalKeyboards/comments/6yieo6/review_plum_84_35g_bluetooth_nonrgb/
+
+Though he explained the solution for Linux OS, it seems his solution doesn't apply to MacOS. \
 Instead, I suggest you to toggle following macOS option as you want.  \
 (System Preferences > Keyboard > Use F1, F2, etc. keys are standard function keys …) 
 
@@ -104,6 +104,9 @@ When using the KBD84 software to program the keyboard, be sure to select ReadAll
 Source : Software > CalibrationiLite > CalibrationLite.exe
 
 (This program only support Windows OS)
+
+Video link : http://v.youku.com/v_show/id_XMzQxMjg5MzA0NA==.html?x&sharefrom=android&sharekey=b64f9bbcfb7ce67d6be729c0b98844d92 \
+(Open the link in mobile phone)
 
 1. Press 'ReadVersion' \
 (※ If you switch Win key and Alt key, the error message('Keyboard disconnect') will appear)
