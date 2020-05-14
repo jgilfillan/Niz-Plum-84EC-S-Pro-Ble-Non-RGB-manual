@@ -38,7 +38,7 @@ Do it again to switch back to office mode.
 
 
 ## 5.3  Bluetooth functions
-* Fn + 1 or 2 or 3 : hold for 3 seconds to pair that profile, BT light will fast blink
+* Fn + 1 or 2 or 3 : hold for 3 seconds to pair that profile, BT light will fast blink. Note that if you are trying to pair multiple devices, you must first turn off BT on the previously paired devices before you can pair a new device.
 * Fn + 1 or 2 or 3 : quick click, change profile, light will stay on for 5 seconds if connection is successful
 * Fn + `(~) : swap between Wired vs wireless mode
 
