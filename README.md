@@ -78,6 +78,7 @@ Do it again to switch back to office mode.
 hold down ALL FOUR CORNER KEYS (Esc, Ctrl(Left), →, Delete) for 5 seconds
 
 <br>
+
 ## These instructions appear on my newer version of the instructions (maybe a newer version of the keyboard as well). They may not apply to older versions of the keyboard.
 * The left fn and right fn keys can be programmed separately in program mode and map to different layers.
 * Press left and right fn at the same time for 3 seconds to swap the regular keys with their fn versions. Based on which fn you press first you toggle right-fn-lock or left-fn-lock. 2 flashes = left fn active, 3 flashes = right fn active, 1 flash = disabled
@@ -89,6 +90,8 @@ hold down ALL FOUR CORNER KEYS (Esc, Ctrl(Left), →, Delete) for 5 seconds
 * Fn + Px mouse : cycle between each mouse movement moving 2/3/4/5 pixels
 * Fn + Y for 3 seconds when USB is not connected will show the current battery level by lighting up 1-4 of the F9-F12 keys (1 is low battery and all 4 is full battery).
 * Fn + T for 5 seconds lets you cycle between 1 hour/2 hour/3 hour for automatic shutoff when in wireless mode. Default is 3 hours.
+
+<br>
 
 # Extra
 
