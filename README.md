@@ -19,7 +19,6 @@ Do it again to switch back to office mode.
 
 <br>
 
-
 ## 5.2 Hotkeys
 * Fn + ⤓ (F9) : APC(Actuation Point Change) mode toggle between low (1 flash of CAPSLOCK)  and high (2 flashes of CAPSLOCK)
 
@@ -40,6 +39,7 @@ Do it again to switch back to office mode.
 ## 5.3  Bluetooth functions
 * Fn + 1 or 2 or 3 : hold for 3 seconds to pair that profile, BT light will fast blink. Note that if you are trying to pair multiple devices, you must first turn off BT on the previously paired devices before you can pair a new device.
 * Fn + 1 or 2 or 3 : quick click, change profile, light will stay on for 5 seconds if connection is successful
+* Fn + bluetooth/battery symbol : while the keyboard is connected by USB or charging, use this to toggle between allowing charging or enabling wired/wireless mode.
 * Fn + `(~) : swap between Wired vs wireless mode
 
 <br>
@@ -72,12 +72,23 @@ Do it again to switch back to office mode.
 <br>
 
 
+
 ## 8.0 Factory reset the board
 
 hold down ALL FOUR CORNER KEYS (Esc, Ctrl(Left), →, Delete) for 5 seconds
 
 <br>
-
+## These instructions appear on my newer version of the instructions (maybe a newer version of the keyboard as well). They may not apply to older versions of the keyboard.
+* The left fn and right fn keys can be programmed separately in program mode and map to different layers.
+* Press left and right fn at the same time for 3 seconds to swap the regular keys with their fn versions. Based on which fn you press first you toggle right-fn-lock or left-fn-lock. 2 flashes = left fn active, 3 flashes = right fn active, 1 flash = disabled
+* Fn + clock with A symbol : press this to cycle the key repeat delay among 500, 300, 100 ms. The number of flashes indicates which mode is active; default first one; this preference is reset on restart.
+* Fn + AA symbol : press this to cycle between key repeat speed among 1x, 2x, 4x, 8x. The number of flashes indicates which mode is active; defaults to first one; preference is reset on restart. In the USB/Bluetooth mode, the speed will only be 1x, and this setting is invalid.
+* Fn + \ : press and hold for 3 seconds to swap Backspace and the \ key. Persisted across restarts.
+* Fn + mouse symbols : simulate mouse movement and mouse clicks
+* Fn + mouse with clock : cycle between 8/6/4/2 ms time interval per mouse movement
+* Fn + Px mouse : cycle between each mouse movement moving 2/3/4/5 pixels
+* Fn + Y for 3 seconds when USB is not connected will show the current battery level by lighting up 1-4 of the F9-F12 keys (1 is low battery and all 4 is full battery).
+* Fn + T for 5 seconds lets you cycle between 1 hour/2 hour/3 hour for automatic shutoff when in wireless mode. Default is 3 hours.
 
 # Extra
 
