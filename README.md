@@ -19,6 +19,7 @@ Do it again to switch back to office mode.
 
 <br>
 
+
 ## 5.2 Hotkeys
 * Fn + ⤓ (F9) : APC(Actuation Point Change) mode toggle between low (1 flash of CAPSLOCK)  and high (2 flashes of CAPSLOCK)
 
@@ -39,8 +40,7 @@ Do it again to switch back to office mode.
 ## 5.3  Bluetooth functions
 * Fn + 1 or 2 or 3 : hold for 3 seconds to pair that profile, BT light will fast blink. Note that if you are trying to pair multiple devices, you must first turn off BT on the previously paired devices before you can pair a new device.
 * Fn + 1 or 2 or 3 : quick click, change profile, light will stay on for 5 seconds if connection is successful
-* Fn + bluetooth/battery symbol : while the keyboard is connected by USB or charging, use this to toggle between allowing charging or enabling wired/wireless mode.
-* Fn + `(~) : swap between Wired vs wireless mode
+* Fn + bluetooth/battery symbol : while the keyboard is connected by USB or charging, this key toggles between connecting via the USB connection or connecting via Bluetooth while charging.
 
 <br>
 
@@ -70,7 +70,6 @@ Do it again to switch back to office mode.
 ## 7.0 Please use a 2A USB charger for best charging speed
 
 <br>
-
 
 
 ## 8.0 Factory reset the board
