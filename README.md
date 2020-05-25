@@ -38,9 +38,9 @@ Do it again to switch back to office mode.
 
 
 ## 5.3  Bluetooth functions
-* Fn + 1 or 2 or 3 : hold for 3 seconds to pair that profile, BT light will fast blink. Note that if you are trying to pair multiple devices, you must first turn off BT on the previously paired devices before you can pair a new device.
-* Fn + 1 or 2 or 3 : quick click, change profile, light will stay on for 5 seconds if connection is successful
-* Fn + BT+🔋 : while the keyboard is connected by USB or charging, this key toggles between connecting via the USB connection or connecting via Bluetooth while charging.
+* Fn + BT 1 or BT 2 or BT 3 : hold for 3 seconds to pair that profile, BT light will fast blink. Note that if you are trying to pair multiple devices, you must first turn off BT on the previously paired devices before you can pair a new device.
+* Fn + BT 1 or BT 2 or BT 3 : quick click, change profile, light will stay on for 5 seconds if connection is successful
+* Fn + BT 🔋 : while the keyboard is connected by USB or charging, this key toggles between connecting via the USB connection or connecting via Bluetooth while charging.
 
 <br>
 
@@ -53,7 +53,7 @@ Do it again to switch back to office mode.
 <br>
 
 
-## 6.2 Battery light (BT+🔋 key)
+## 6.2 Battery light (BT 🔋 key)
 * on = charging
 * off = charged
 * blinking = battery low
