@@ -53,7 +53,7 @@ Do it again to switch back to office mode.
 <br>
 
 
-## 6.2 Battery light (`(~) key)
+## 6.2 Battery light (bluetooth+battery symbol key)
 * on = charging
 * off = charged
 * blinking = battery low
